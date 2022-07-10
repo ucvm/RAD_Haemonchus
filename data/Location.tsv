@@ -1,0 +1,5 @@
+location_name	location_id	city	latitude	longitude	perc_rec	perc_susc	type
+lahore_farm	T2	Lahore_disrict_Punjab	31.570391	74.401177	92.5	7.5	farm
+Okara_Farm	T1	Kasur_District_Punjab	31.090084	74.037964	100	0	farm
+Lahore_Slaughterhouse	U1	Lahore_District_Punjab	31.464262	74.233034	2.5	97.5	slaughter
+Sargodha_Slaughterhouse	U2	Sargodha_District_Punjab	32.091245	72.670431	12.5	87.5	slaughter
